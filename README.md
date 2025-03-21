@@ -70,7 +70,7 @@ $$
 根据 Hasse 定理，椭圆曲线群的阶 $ E(\mathbb{F}_{23}) $ 满足：
 
 $$
-q + 1 - 2\sqrt{q} \leq \#E(\mathbb{F}_{23}) \leq q + 1 + 2\sqrt{q}.
+q + 1 - 2\sqrt{q} \leq E(\mathbb{F}_{23}) \leq q + 1 + 2\sqrt{q}.
 $$
 
 对于 $ q = 23 $：
