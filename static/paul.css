@@ -220,3 +220,7 @@ footer{
 footer a{
     color: inherit;
 }
+
+marquee {
+    color: red; /* 设置文本颜色为红色 */
+  }
